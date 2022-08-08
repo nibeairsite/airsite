@@ -1,2 +1,2 @@
 # NIBE AirSite AB
-## Airhandling Units & Free Cooling Units.
+## Airhandling & Free Cooling Units.
