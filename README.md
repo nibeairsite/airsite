@@ -2,4 +2,4 @@
 ## Building Airhandling units and Free Cooling units.
 
 
-![Automation | PLC Control Systems](https://raw.githubusercontent.com/lucablom/lucablom/main/bhf_twincat_2013.png)
+![Automation | PLC Control Systems](https://github.com/nibeairsite/nibeairsite/blob/main/NIBE_AirSite_vector_logo.svg)
